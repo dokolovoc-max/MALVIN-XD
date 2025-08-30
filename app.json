@@ -1,5 +1,5 @@
 {
-  "name": "ᴍᴀʟᴠɪɴ-xᴅ",
+  "name": "SAMI-PRO",
   "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
   "logo": "https://files.catbox.moe/qumhu4.jpg",
   "keywords": ["MALVIN XD"],
@@ -9,14 +9,14 @@
   "env": {
       "SESSION_ID": {
         "description": "Put your SESSION_ID here. Make sure it starts with malvin~",
-        "value":"",
+        "value":"malvin~svMR3SDD#yJ4y6rKdsFMjkl0WxzWHHahVLO6mO-48JDCRI-nIur4",
         "required": true
         
     },
       "BOT_NAME": {
         "description": "write here your bot name.",
         "required": true,
-        "value": "ᴍᴀʟᴠɪɴ xᴅ" 
+        "value": "SAMI INNO" 
         
     },
      "PREFIX": {
@@ -40,13 +40,13 @@
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "value": "263714757857"
+      "value": "256766104887"
       "required": true
       
    },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "SAMI PRO",
       "required": true
     }
 
